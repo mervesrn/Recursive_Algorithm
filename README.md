@@ -1,7 +1,6 @@
 # Recursive_Algorithm
 A recursive algorithm that takes an n-element unsorted array A of n, for rearranging the elements in A so that all elements that are negative or equal to 0(zero) come before any elements that are positive.<br>
 
- ![alt text](https://github.com/mervesrn/Recursive_Algorithm/blob/main/IMG_3877.jpg)<br>
  
  ![alt text](https://github.com/mervesrn/Recursive_Algorithm/blob/main/IMG_3878.jpg)<br>
 
